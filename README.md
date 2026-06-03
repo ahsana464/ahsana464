@@ -1,5 +1,5 @@
 # 💫 About Me:
-ahsana464/README.md<br>I'm currently working on my skills. Ask me about Cloud and DevOps related stuff.<br><br>How to reach me. Instagram @rao_ahsn linkedin https://www.linkedin.com/in/ahsan-rao-6b19a1412<br><br>pronouns : HE/HIS
+As a Software Engineering student mastering the MERN stack, I quickly realized that writing great code is only half the battle—the real magic happens when you build the infrastructure that helps it scale. That realization drove me to build PipelineX, an AI-powered DevOps platform that uses LLMs to automatically containerize and deploy web apps to AWS or Azure in under 3 minutes.  From building dual-database full-stack systems to automating CI/CD pipelines, I thrive at the intersection of development and cloud operations. Now, I’m looking to bring this hands-on experience to a Software Engineering or DevOps internship in Lahore, where I can help teams build, automate, and scale real-world applications.  🛠️ My Toolkit: React.js, Node.js, Express, MongoDB, Oracle 10g, Docker, GitHub Actions, AWS EC2, & Microsoft Azure.
 
 
 ## 🌐 Socials:
