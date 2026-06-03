@@ -1,5 +1,6 @@
 # 💫 About Me:
-As a Software Engineering student mastering the MERN stack, I quickly realized that writing great code is only half the battle—the real magic happens when you build the infrastructure that helps it scale. That realization drove me to build PipelineX, an AI-powered DevOps platform that uses LLMs to automatically containerize and deploy web apps to AWS or Azure in under 3 minutes.  From building dual-database full-stack systems to automating CI/CD pipelines, I thrive at the intersection of development and cloud operations. Now, I’m looking to bring this hands-on experience to a Software Engineering or DevOps internship in Lahore, where I can help teams build, automate, and scale real-world applications.  🛠️ My Toolkit: React.js, Node.js, Express, MongoDB, Oracle 10g, Docker, GitHub Actions, AWS EC2, & Microsoft Azure.
+As a Software Engineering student mastering the MERN stack, I quickly realized that writing great code is only half the battle—the real magic happens when you build the infrastructure that helps it scale. That realization drove me to build PipelineX, an AI-powered DevOps platform that uses LLMs to automatically containerize and deploy web apps to AWS or Azure in under 3 minutes.  From building dual-database full-stack systems to automating CI/CD pipelines, I thrive at the intersection of development and cloud operations. Now, I’m looking to bring this hands-on experience to a Software Engineering or DevOps internship in Lahore, where I can help teams build, automate, and scale real-world applications. 
+🛠️ My Toolkit: React.js, Node.js, Express, MongoDB, Oracle 10g, Docker, GitHub Actions, AWS EC2, & Microsoft Azure.
 
 
 ## 🌐 Socials:
@@ -13,7 +14,7 @@ As a Software Engineering student mastering the MERN stack, I quickly realized t
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahsana464&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ahsana464&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
