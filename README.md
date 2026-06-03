@@ -1,4 +1,11 @@
-## Hi there 👋
+I'm currently working on my skills.
+Ask me about Cloud and DevOps related stuff.
+
+How to reach me. 
+                                Instagram @rao_ahsn
+                                linkedin  https://www.linkedin.com/in/ahsan-rao-6b19a1412
+
+pronouns : HE/HIS
 
 <!--
 **ahsana464/ahsana464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
